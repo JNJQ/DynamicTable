@@ -1,0 +1,26 @@
+После добавления библиотеки React перестали загружаться страницы. 
+Startup.cs:
+	ConfigureServices:
+		Добавлены строки:
+			services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+            		services.AddReact();
+		Изменен тип возвращаемого объекта метода:
+			void -> IServiceProvider
+			return services.BuildServiceProvider(); - Возвращаемый объект
+	Configure:
+		Добавлены строки:
+			app.UseReact(config => { });
+
+Views:
+	_ViewImports.cshtml:
+		Добавлены строки:
+			@using React.AspNet
+
+	Home:
+		Index.cshtml:
+			Добавлены строки:
+				<script src="https://cdnjs.cloudflare.com/ajax/libs/react/15.3.2/react.js"></script>
+    				<script src="https://cdnjs.cloudflare.com/ajax/libs/react/15.3.2/react-dom.js"></script>
+
+
+Отмена изменений не помогает.
