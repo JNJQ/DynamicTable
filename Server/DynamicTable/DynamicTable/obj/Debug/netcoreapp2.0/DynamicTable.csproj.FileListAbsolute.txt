@@ -1,0 +1,11 @@
+C:\Users\JNJQ\Documents\Visual Studio 2017\Projects\DynamicTable\DynamicTable\DynamicTable\bin\Debug\netcoreapp2.0\DynamicTable.deps.json
+C:\Users\JNJQ\Documents\Visual Studio 2017\Projects\DynamicTable\DynamicTable\DynamicTable\bin\Debug\netcoreapp2.0\DynamicTable.runtimeconfig.json
+C:\Users\JNJQ\Documents\Visual Studio 2017\Projects\DynamicTable\DynamicTable\DynamicTable\bin\Debug\netcoreapp2.0\DynamicTable.runtimeconfig.dev.json
+C:\Users\JNJQ\Documents\Visual Studio 2017\Projects\DynamicTable\DynamicTable\DynamicTable\bin\Debug\netcoreapp2.0\DynamicTable.dll
+C:\Users\JNJQ\Documents\Visual Studio 2017\Projects\DynamicTable\DynamicTable\DynamicTable\bin\Debug\netcoreapp2.0\DynamicTable.pdb
+C:\Users\JNJQ\Documents\Visual Studio 2017\Projects\DynamicTable\DynamicTable\DynamicTable\obj\Debug\netcoreapp2.0\DynamicTable.csproj.CoreCompileInputs.cache
+C:\Users\JNJQ\Documents\Visual Studio 2017\Projects\DynamicTable\DynamicTable\DynamicTable\obj\Debug\netcoreapp2.0\DynamicTable.AssemblyInfoInputs.cache
+C:\Users\JNJQ\Documents\Visual Studio 2017\Projects\DynamicTable\DynamicTable\DynamicTable\obj\Debug\netcoreapp2.0\DynamicTable.AssemblyInfo.cs
+C:\Users\JNJQ\Documents\Visual Studio 2017\Projects\DynamicTable\DynamicTable\DynamicTable\obj\Debug\netcoreapp2.0\DynamicTable.dll
+C:\Users\JNJQ\Documents\Visual Studio 2017\Projects\DynamicTable\DynamicTable\DynamicTable\obj\Debug\netcoreapp2.0\DynamicTable.pdb
+C:\Users\JNJQ\Documents\Visual Studio 2017\Projects\DynamicTable\DynamicTable\DynamicTable\obj\Debug\netcoreapp2.0\DynamicTable.csprojResolveAssemblyReference.cache
