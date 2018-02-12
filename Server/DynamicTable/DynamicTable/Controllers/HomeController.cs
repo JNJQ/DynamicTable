@@ -39,11 +39,11 @@ namespace DynamicTable.Controllers
             return Json(_db.Banks);
         }
 
-        private int GetRand()
+        private double GetRand()
         {
             int min = 100;
             int max = 1000;
-            return (new Random()).Next() % (max - min) + min;
+            return Math.Round((new Random()).NextDouble() % (max - min) + min, 2);
         }
     }
 }

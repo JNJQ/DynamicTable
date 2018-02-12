@@ -12544,11 +12544,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\JNJQ\\Documents\\Visual Studio 2017\\Projects\\DynamicTable\\DynamicTable\\DynamicTable\\DynamicTable.csproj",
+      "projectUniqueName": "C:\\Users\\JNJQ\\Documents\\DynamicTable\\Server\\DynamicTable\\DynamicTable\\DynamicTable.csproj",
       "projectName": "DynamicTable",
-      "projectPath": "C:\\Users\\JNJQ\\Documents\\Visual Studio 2017\\Projects\\DynamicTable\\DynamicTable\\DynamicTable\\DynamicTable.csproj",
+      "projectPath": "C:\\Users\\JNJQ\\Documents\\DynamicTable\\Server\\DynamicTable\\DynamicTable\\DynamicTable.csproj",
       "packagesPath": "C:\\Users\\JNJQ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JNJQ\\Documents\\Visual Studio 2017\\Projects\\DynamicTable\\DynamicTable\\DynamicTable\\obj\\",
+      "outputPath": "C:\\Users\\JNJQ\\Documents\\DynamicTable\\Server\\DynamicTable\\DynamicTable\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

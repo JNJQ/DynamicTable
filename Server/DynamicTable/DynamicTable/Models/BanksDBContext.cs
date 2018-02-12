@@ -7,7 +7,10 @@ namespace DynamicTable
     public partial class BanksDBContext : DbContext
     {
         public virtual DbSet<Banks> Banks { get; set; }
-
+        public BanksDBContext(DbContextOptions<BanksDBContext> options)
+            : base(options)
+        {
+        }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             if (!optionsBuilder.IsConfigured)
